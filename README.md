@@ -1,12 +1,12 @@
 # 👋 Hi, I’m @Giog97
 - 🎓 I’m currently pursuing my **Master's Degree in Computer Engineering – Interactive and Multimedia Systems** at the **University of Florence**.
 - 👀 I’m interested in **AI**, **Computer Graphics**, **Visual and Multimedia Recognition**, and **IoT applications**.
-- 📫 How to reach me: [@giovanni.stefanini][(https://www.instagram.com/giovannistefanini/)] | [giovannistefanini97@gmail.com]
+- 📫 How to reach me: [@giovanni.stefanini](https://www.instagram.com/giovannistefanini/) | giovannistefanini97@gmail.com
 - ⚡ Fun fact: I am always open to sharing knowledge and collaborating!
 
 ---
 
-## 🛠️ Technologies & Tools
+## Developer skills
 
 ### Languages
 <p align="left">
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
-### Development Tools  
+### Tools  
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
