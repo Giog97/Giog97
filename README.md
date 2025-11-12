@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Giovanni
 - 🎓 I’m currently pursuing my **Master's Degree in Computer Engineering – Interactive and Multimedia Systems** at the **University of Florence**.
-- 👀 I’m interested in **AI**, **Virtual Reality**, **Visual and Multimedia Recognition**, **Data Mining**, **Computer Graphics** and **IoT applications**.
+- 👀 I’m interested in **Computer Vision**, **Virtual Reality**, **AI**, **Visual and Multimedia Recognition**, **Data Mining** and **AI applications**.
 - 📫 How to reach me: [@giovanni.stefanini](https://www.instagram.com/giovannistefanini/) | giovannistefanini97@gmail.com
 - ⚡ Fun fact: I am always open to sharing knowledge and collaborating!
 
