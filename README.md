@@ -1,7 +1,23 @@
 # 👋 Hi, I’m Giovanni
-- 🎓 I’m currently pursuing my **Master's Degree in Computer Engineering – Multimedia Systems** at the **University of Florence**.
-- 👀 I’m interested in **Computer Vision**, **Virtual Reality**, **AI**, **Visual and Multimedia Recognition**, **Data Mining** and **AI applications**.
-- 📫 How to reach me: [@giovanni.stefanini](https://www.instagram.com/giovannistefanini/) | giovannistefanini97@gmail.com
-- ⚡ Fun fact: I am always open to sharing knowledge and collaborating!
+
+🎓 **Computer Engineer (MSc) – Multimedia Systems & AI**  
+📍 University of Florence  
+
+👀 I’m a **software engineer and AI enthusiast** passionate about **Computer Vision, VR, Multimedia Recognition, Data Mining**, and **practical AI applications**.
 
 ---
+
+## 🛠️ Tech Stack
+
+**Programming Languages:** Python, C++, Java, JavaScript  
+**AI / CV Frameworks:** PyTorch, TensorFlow, OpenCV, CUDA, FAISS  
+**Tools & IDEs:** Git/GitHub, Visual Studio Code, Anaconda, CLion, Unity, LaTeX  
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: gioste97@gmail.com  
+- 💼 LinkedIn: [Giovanni Stefanini](https://www.linkedin.com/in/giovanni-stefanini-56820735a/)  
+- 💻 GitHub: [Giog97](https://github.com/Giog97)
+
