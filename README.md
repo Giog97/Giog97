@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Skills
 
 **Programming Languages:** Python, C++, Java, JavaScript  
 **AI / CV Frameworks:** PyTorch, TensorFlow, OpenCV, CUDA, FAISS  
