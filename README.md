@@ -10,7 +10,7 @@
 ## 🛠️ Tech Skills
 
 **Programming Languages:** Python, C++, Java, JavaScript  
-**Frameworks:** PyTorch, TensorFlow, OpenCV, CUDA, FAISS  
+**Frameworks:** PyTorch, TensorFlow, OpenCV, CUDA, OpenMP  
 **Tools & IDEs:** Git/GitHub, Visual Studio Code, Anaconda, CLion, Unity, LaTeX  
 
 ---
