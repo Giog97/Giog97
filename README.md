@@ -3,7 +3,7 @@
 🎓 **Computer Engineer (MSc) – Multimedia Systems & AI**  
 📍 University of Florence  
 
-👀 I’m a **software engineer and AI enthusiast** passionate about **Computer Vision, VR, Multimedia Recognition, Data Mining**, and **practical AI applications**.
+👀 I’m a **computer engineer and AI enthusiast** passionate about **Computer Vision, VR, Multimedia Recognition, Data Mining**, and **practical AI applications**.
 
 ---
 
